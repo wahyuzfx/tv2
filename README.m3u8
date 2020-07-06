@@ -1,5 +1,3 @@
-# tv2
-lokal update
 #######INDONESIA#######
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSYQ1GjX/mnc.png" group-title="Indonesia", MNC TV
@@ -24,9 +22,10 @@ http://103.148.44.22:5649/IndoSiar
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4pxnkBZ/Antv.png" group-title="Indonesia", Antv
 http://rr2.dens.tv/s/s07/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MG7jnCrN/tvone.png" group-title="Indonesia", Tv One
-http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62181
+#http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtNRvcz9/Kompas-tv-SD.png" group-title="Indonesia", Kompas TV
-http://103.148.44.22:5560/kompastv
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHYXbzDG/Berita-satu.png" group-title="Indonesia",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia", Dunia lain
@@ -58,7 +57,7 @@ http://210.210.155.35/session/4b1fe496-a7f6-11e8-ba87-b82a72d63267/qwr9ew/s/s13/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HW24ZyzR/Jak-tv.png" group-title="Indonesia", Jak TV
 https://vcdnjt.useetv.com/joss/14/jaktv/chunklist_w1502853053_b684100_sleng_67546.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPt8Ht3j/JTV.png" group-title="Indonesia", JTV
-http://iptv.burhansyam.com/useetvgo/jtv.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
  
 #######Religi#######
  
@@ -258,25 +257,27 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 #######Knowledge#######
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26pFMp1S/idku.png" group-title="Knowledge", ID ku
-https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1779860177_b1344100_sleng_trinity.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",TV EDUKASI
 https://vcdnjt.useetv.com/joss/14/tvedukasi/chunklist_w1281578499_b684100_sleng_PAKDETV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhMPrT4N/Ruang-Tampil.png" group-title="Knowledge",Ruang Terampil
-https://vcdnjt.useetv.com/joss/15/useeinfo/chunklist_w22496969_b684100_sleng_enc=4IVMJWnW8xLMihtJpeYWHQ.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SVQ5jv5/useephoto.png" group-title="Knowledge", Usee Photo
-http://iptv.burhansyam.com/useetvgo/useephoto.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgqpGF94/useeprime.png" group-title="Knowledge", Usee Prime
-http://iptv.burhansyam.com/useetvgo/useeprime.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DwMcQ4Fs/Foodie-channel.png" group-title="Knowledge",Foodie Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvmQmyJK/BBC-Earth.png" group-title="Knowledge",Love Nature
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/78766
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvmQmyJK/BBC-Earth.png" group-title="Knowledge", BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvmQmyJK/BBC-Earth.png" group-title="Knowledge", BBC Earth2
 http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62289
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJK26R4J/Asian-food.png" group-title="Knowledge", Asian Food Channel
-http://iptv.burhansyam.com/useetvgo/afc.m3u8
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D24596A14EAFC78BC705583C9FD&profile=pass
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="Knowledge",CRIME INVESTIGATION
-http://iptv.burhansyam.com/useetvgo/crimeinvestigation.m3u8
+http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62270
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", Lifetime
 http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62175
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", HGTV
@@ -303,7 +304,7 @@ http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62210
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vThr4c34/Nat-geo-wild.png" group-title="Knowledge",Nat Geo Wild
 https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHq0Zybk/nat-Geo-pople.png" group-title="Knowledge",Nat Geo People
-https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=92D7F88CF74C72501B6AFC9FCF90DF439783701B&profile=pass
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxQ4CSM4/CGTN-doc.png" group-title="Knowledge", CGTN Documentary
