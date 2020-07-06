@@ -23,7 +23,7 @@ http://103.148.44.22:5649/IndoSiar
 http://rr2.dens.tv/s/s07/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MG7jnCrN/tvone.png" group-title="Indonesia", Tv One
 http://iptvking.123tv.to:8080/AVI8wb6TFC/QIlh5YxSmb/62181
-#http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtNRvcz9/Kompas-tv-SD.png" group-title="Indonesia", Kompas TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHYXbzDG/Berita-satu.png" group-title="Indonesia",Berita Satu
